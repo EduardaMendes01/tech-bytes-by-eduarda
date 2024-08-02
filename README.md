@@ -22,7 +22,7 @@ Besides coding, I have a great love for nature, cats, coffee, music, and working
 
 ## How to Access
 
-You can access the blog [here](https://) (replace with the actual link if different).
+You can access the blog [here](https://eduardamendes01.github.io/tech-bytes-by-eduarda/).
 
 ## Contact
 
